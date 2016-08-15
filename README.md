@@ -1,6 +1,6 @@
 # Dodging-Ralphie
 
-Runnable file : tempo.py, tempo-level2.py
+Runnable file : tempo.py, level2.py
 
 key Functions : 
 
@@ -16,4 +16,4 @@ camera according to his requirement.
 
 There are two files attached in the attachment. 
 'tempo.py' is the file for level 1. 
-'tempo0level2.py' is the file for level 2.
+'level2.py' is the file for level 2.
